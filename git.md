@@ -10,7 +10,11 @@ git init
 
 ## 3./ Tạo repository
 
-git remote add origin https://github.com/vovinhloc/gitnote.git
-push --set-upstream origin master
+- git remote add origin https://github.com/vovinhloc/gitnote.git
+- push --set-upstream origin master
 
-##### This is an H5
+##### modify
+
+- git add .
+- git commit -m 'add'
+- git push
