@@ -1,11 +1,10 @@
-git init
-1
-2
-
 # 1./Khởi tạo git
 
 git init
 
-## This is an H2
+## 2./Thêm file
+
+nano readme.md
+git pust ./readme.md
 
 ##### This is an H5
